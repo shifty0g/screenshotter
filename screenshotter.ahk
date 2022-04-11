@@ -1,26 +1,25 @@
-/* Screenshots
-11/01/21
-
-
-Currently Takes Screenshots of the following 
-	secpol
-	
-
-
+/* Screenshotter
+11/04/21
 
 To Do
 ============
 Fix issue with firewall - not full screen and image is blacks
 Scrolling not working on secpol
 
+add a start and end box so u know when its done.    maybe at end .. FINISHED press enter to continue
 
 winupdate
 installed update
-system info
+system info GUI
+System Manager.. roles est
+local users and group
 winver
 checks for java and if it exists ge a screenshot
 check registry sufff
 try and get the secpol to sort columns out 
+Bitlocker
+services 
+firewall rules
 
 
 
